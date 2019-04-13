@@ -1,2 +1,2 @@
-# FYBSCIT
-Notes, programs and other useful information
+# stuff i learn
+programming in c (more to come)
